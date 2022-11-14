@@ -1,0 +1,9 @@
+html, body {
+  height: 100%;
+  width: 100%;
+	background: #13364e;
+	color: #FFFF00;
+	vertical-align: top;
+	margin: 0px;
+	position: fixed;
+}
