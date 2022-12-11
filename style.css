@@ -7,3 +7,7 @@ html, body {
 	margin: 0px;
 	position: fixed;
 }
+iframe {
+  height: 100%;
+  width: 100%;
+}
